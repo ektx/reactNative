@@ -18,6 +18,8 @@
 
   ```shell
   npm install react-native --save
+  # or
+  npm i -g react-native
   ```
 
 - 初始化项目
@@ -36,3 +38,8 @@
 react-native run-ios
 ```
 
+
+
+## 参考
+
+https://reactnative.cn/
