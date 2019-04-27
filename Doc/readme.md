@@ -26,6 +26,8 @@
 
   ```shell
   node -e "require('react-native/local-cli/cli').init('.','myProject')"
+  # or
+  react-native init AwesomeProject
   ```
 
   ​
